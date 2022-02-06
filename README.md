@@ -15,4 +15,11 @@ But the community is too big to be handled and managed right ? here's a solution
  a. Which displays the books, you have alongwith their authors 
  b. Lets you add another book if you buy one
  c. Lets you keep a record of the book if you have borrowed/exchanged with some one along with the borrower's and owner's contact details.
- 
+
+
+2. Movie Buzz: 
+This application is designed to keep a safe of movies, their details and a direct stream link for those. We are surrounded by streamming apps these days,
+Some movies/ shows are available on Amazon Prime, some on Netflix, many of theme on Hotstar Disney+ and others on Zee, Voot and obviously some legends have other sources
+(ps. YouTube etc.) So how to be sure that we get the right source in finite time?
+ a. Search the link once, 
+ b. Store it once and Ka-Boom !.. it stays there in your Database.
